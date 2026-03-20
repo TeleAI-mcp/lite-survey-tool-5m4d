@@ -1,2 +1,3 @@
-# lite-survey-tool-5m4d
+# Lite Survey Tool 5M4D
+
 A repository to test GitHub automation for issue management.
